@@ -1,0 +1,2 @@
+Flower Shop Chatbot Deployed on a Wordpress site - https://sakshilverma.intelaedu.com/
+Flower Shop Chatbot link - https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=jp-tok&integrationID=f23b91e6-91aa-4802-ad3c-be4f559f0036&serviceInstanceID=d01f0cff-2b8f-4972-a43e-a0d0b8746900
